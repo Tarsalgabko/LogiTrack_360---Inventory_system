@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "inventory": "Inventory",
+    "tasks": "Tasks",
+    "warehouse": "Warehouse",
+    "reports": "Reports",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to LogiTrack 360",
+    "totalItems": "Total Items",
+    "lowStock": "Low Stock",
+    "pendingTasks": "Pending Tasks",
+    "completedToday": "Completed Today",
+    "warehouseOverview": "Warehouse Overview",
+    "recentActivity": "Recent Activity",
+    "kpiMetrics": "KPI Metrics"
+  },
+  "inventory": {
+    "title": "Inventory Management",
+    "searchPlaceholder": "Search by SKU, name, or location...",
+    "addItem": "Add Item",
+    "editItem": "Edit Item",
+    "deleteItem": "Delete Item",
+    "sku": "SKU",
+    "name": "Name",
+    "location": "Location",
+    "quantity": "Quantity",
+    "price": "Price",
+    "lastUpdated": "Last Updated",
+    "actions": "Actions",
+    "inStock": "In Stock",
+    "lowStock": "Low Stock",
+    "outOfStock": "Out of Stock"
+  },
+  "tasks": {
+    "title": "Warehouse Tasks",
+    "receive": "Receive",
+    "putaway": "Put Away",
+    "pick": "Pick",
+    "move": "Move",
+    "dispatch": "Dispatch",
+    "priority": "Priority",
+    "assigned": "Assigned",
+    "completed": "Completed",
+    "pending": "Pending",
+    "inProgress": "In Progress"
+  },
+  "warehouse": {
+    "title": "Warehouse Management",
+    "zones": "Zones",
+    "racks": "Racks",
+    "locations": "Locations",
+    "utilization": "Utilization",
+    "capacity": "Capacity",
+    "available": "Available"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Info"
+  },
+  "auth": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "admin": "Admin",
+    "manager": "Manager",
+    "worker": "Worker"
+  },
+  "footer": {
+    "createdBy": "Created by Gabriell S. Kisely",
+    "license": "Licensed under MIT License"
+  }
+}

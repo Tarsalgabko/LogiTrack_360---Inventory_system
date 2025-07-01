@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "inventory": "Sklad",
+    "tasks": "Úlohy",
+    "warehouse": "Sklad",
+    "reports": "Reporty",
+    "settings": "Nastavenia",
+    "logout": "Odhlásiť"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Vitajte v LogiTrack 360",
+    "totalItems": "Celkový počet položiek",
+    "lowStock": "Nízke zásoby",
+    "pendingTasks": "Čakajúce úlohy",
+    "completedToday": "Dokončené dnes",
+    "warehouseOverview": "Prehľad skladu",
+    "recentActivity": "Nedávna aktivita",
+    "kpiMetrics": "KPI Metriky"
+  },
+  "inventory": {
+    "title": "Správa skladu",
+    "searchPlaceholder": "Vyhľadaj podľa SKU, názvu alebo lokácie...",
+    "addItem": "Pridať položku",
+    "editItem": "Upraviť položku",
+    "deleteItem": "Zmazať položku",
+    "sku": "SKU",
+    "name": "Názov",
+    "location": "Lokácia",
+    "quantity": "Množstvo",
+    "price": "Cena",
+    "lastUpdated": "Posledná aktualizácia",
+    "actions": "Akcie",
+    "inStock": "Na sklade",
+    "lowStock": "Nízke zásoby",
+    "outOfStock": "Vypredané"
+  },
+  "tasks": {
+    "title": "Skladové úlohy",
+    "receive": "Príjem",
+    "putaway": "Uskladnenie",
+    "pick": "Vychystanie",
+    "move": "Presun",
+    "dispatch": "Výdaj",
+    "priority": "Priorita",
+    "assigned": "Priradené",
+    "completed": "Dokončené",
+    "pending": "Čakajúce",
+    "inProgress": "Prebieha"
+  },
+  "warehouse": {
+    "title": "Správa skladu",
+    "zones": "Zóny",
+    "racks": "Regály",
+    "locations": "Lokácie",
+    "utilization": "Využitie",
+    "capacity": "Kapacita",
+    "available": "Dostupné"
+  },
+  "common": {
+    "save": "Uložiť",
+    "cancel": "Zrušiť",
+    "delete": "Zmazať",
+    "edit": "Upraviť",
+    "view": "Zobraziť",
+    "search": "Vyhľadať",
+    "filter": "Filter",
+    "loading": "Načítava...",
+    "error": "Chyba",
+    "success": "Úspech",
+    "warning": "Upozornenie",
+    "info": "Info"
+  },
+  "auth": {
+    "login": "Prihlásenie",
+    "email": "Email",
+    "password": "Heslo",
+    "rememberMe": "Zapamätať si ma",
+    "forgotPassword": "Zabudli ste heslo?",
+    "admin": "Admin",
+    "manager": "Manažér",
+    "worker": "Pracovník"
+  },
+  "footer": {
+    "createdBy": "Vytvoril Gabriell S. Kisely",
+    "license": "Licencované pod MIT Licenciou"
+  }
+}
